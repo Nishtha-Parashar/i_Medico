@@ -1,0 +1,12 @@
+package i_Medico;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			new Log();
+			//new Patient();
+			//new Medicine();
+			//new Doctor();
+	}
+
+}
